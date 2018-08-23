@@ -2,7 +2,7 @@
 An asynchronous module system for browser
 
 # Usage
-- [Download bms.js]()
+- [Download bms.js](https://raw.githubusercontent.com/samuelnovaes/bms/master/dist/bms.js)
 - Include bms.js in your HTML
 ```html
 <script src="bms.js"></script>
