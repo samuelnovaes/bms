@@ -1,0 +1,30 @@
+{
+	"name": "bms",
+	"version": "1.0.0",
+	"description": "An asynchronous module system for browser",
+	"main": "index.js",
+	"scripts": {
+		"build": "webpack -p"
+	},
+	"keywords": [
+		"browser",
+		"module",
+		"system",
+		"require",
+		"npm",
+		"exports"
+	],
+	"author": "Samuel Novaes Sena <samuel.novaes.96@gmail.com>",
+	"license": "ISC",
+	"devDependencies": {
+		"babel-core": "^6.26.3",
+		"babel-loader": "^7.1.5",
+		"babel-polyfill": "^6.26.0",
+		"babel-preset-env": "^1.7.0",
+		"webpack": "^4.17.1",
+		"webpack-cli": "^3.1.0"
+	},
+	"dependencies": {
+		"axios": "^0.18.0"
+	}
+}
